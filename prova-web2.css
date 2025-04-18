@@ -28,17 +28,13 @@ justify-content: space-evenly;
 }
 
 .section-1 {
-    background-image:url(banheiro\ 1.jpg) ;
     background-color: #ef6771;
-    padding: 200px;
-  
-
+    padding: 180px;
+    background-image: url(banheiro\ 1.jpg);
+   
 }
-.img-header-img {
-    width: 100%;
-    width: 100%;
 
-}
+
 
 .div-h {
     font-size: 60px;
@@ -88,8 +84,9 @@ justify-content: space-evenly;
 
 .section-2 {
  background-color: #efae54;
-    padding: 200px;
+    padding: 180px;
     background-image: url(sofa\ 2.jpg);
+
    
    
 }
@@ -115,13 +112,13 @@ justify-content: space-evenly;
 
 
 
-
 .button-2 {
     background-color:  #000000;
     padding: 10px 40px;
     border-radius: 7px;
     color: #ffffff;
     font-weight: 600;    
-    
-  
+}
+.img-header {
+    background-size: auto;
 }
